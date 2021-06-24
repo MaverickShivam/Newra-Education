@@ -1,0 +1,33 @@
+<html>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <body style="padding:0;margin:0;">
+        <div >
+            <div style="position:fixed;top:0;height:200px;width:100%;background-color:white;z-index:1;">
+                <center style="padding-top:10px;"><img src="../images/mylogo.png" height=125 ><br><br>
+                <font size=2 color="orange">
+                S.G.T.B. Khalsa Boys<br>
+                Sr. Sec. School, Delhi</font></center>
+            </div>
+            <div style="position:absolute;top:200px;z-index:2;border-top-left-radius:50px;border-top-right-radius:50px;width:100%;background-color:#132743;height:100%;box-shadow: 0px 0 10px rgba(0, 0, 0, 0.8);">
+                <br>
+            <div>
+            <center><h1 style="color:white;">Faculty Login</h1></center>
+            </div>
+            <form action="teacherlogin.php" method="post" autocomplete="off" onsubmit="return blurbody()">
+                <center>
+                <input name="id" style="border:2px solid white;background-color:Transparent;border-radius:25px;height:50px;width:80%;text-align:center;color:white;outline:none;" placeholder="ID" type='number'> <br><br><input name="password" style="border:2px solid white;background-color:Transparent;border-radius:25px;height:50px;width:80%;text-align:center;color:white;outline:none;" placeholder="Password"> 
+                <br>
+                <br>
+                <br>
+                <button name="login" style="background-color:white;color:rgba(47,85,151,1);border:2px solid rgba(47,85,151,1);border-radius:25px;height:50px;width:40%;outline:none;">Login</button></center>
+            </form>
+            </div>
+        </div>
+        <script>
+            function blurbody()
+            {
+                document.body.style["filter"]="opacity(30%)";
+            }
+        </script>
+    </body>
+</html>

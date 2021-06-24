@@ -1,0 +1,103 @@
+[30-Aug-2020 10:17:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/teachermenu.php on line 9
+[30-Aug-2020 10:18:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/teachermenu.php on line 9
+[30-Aug-2020 10:29:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/teachermenu.php on line 9
+[30-Aug-2020 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/teachermenu.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/teachermenu.php on line 13
+[30-Aug-2020 10:36:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/tcourseprofile.php on line 19
+[30-Aug-2020 11:12:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/tpendingreq.php on line 20
+[30-Aug-2020 11:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tpendingreq.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tpendingreq.php on line 24
+[30-Aug-2020 11:14:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/tattendance.php on line 19
+[30-Aug-2020 11:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tattendance.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tattendance.php on line 81
+[30-Aug-2020 11:14:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/tquiz.php on line 20
+[30-Aug-2020 11:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tquiz.php:141
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tquiz.php on line 141
+[30-Aug-2020 11:24:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/advquiz.php on line 3
+[30-Aug-2020 11:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/advquiz.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/advquiz.php on line 33
+[30-Aug-2020 11:25:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/addnewquiz.php on line 29
+[30-Aug-2020 11:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/addnewquiz.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/addnewquiz.php on line 33
+[30-Aug-2020 11:27:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u369938951_eduama'@'localhost' (using password: YES) in /home/yngvbtgj/public_html/edu/34462998/faculty/createquiz.php on line 21
+[30-Aug-2020 11:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/createquiz.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/createquiz.php on line 23
+[30-Aug-2020 11:36:35 UTC] PHP Warning:  exif_read_data(phpWv5Qsv): File not supported in /home/yngvbtgj/public_html/edu/34462998/faculty/upload.php on line 23
+[30-Aug-2020 11:37:11 UTC] PHP Warning:  exif_read_data(phpMDquzQ): File not supported in /home/yngvbtgj/public_html/edu/34462998/faculty/upload.php on line 23
+[03-Sep-2020 11:52:23 UTC] PHP Warning:  chmod(): No such file or directory in /home/yngvbtgj/public_html/edu/34462998/faculty/tquiz.php on line 26
+[03-Sep-2020 11:52:23 UTC] PHP Warning:  unlink(../faculty/uploads/1599133893480.jpg): No such file or directory in /home/yngvbtgj/public_html/edu/34462998/faculty/tquiz.php on line 27
+[03-Sep-2020 11:57:50 UTC] PHP Warning:  chmod(): No such file or directory in /home/yngvbtgj/public_html/edu/34462998/faculty/tquiz.php on line 26
+[03-Sep-2020 11:57:50 UTC] PHP Warning:  unlink(../faculty/uploads/1599133968964.jpg): No such file or directory in /home/yngvbtgj/public_html/edu/34462998/faculty/tquiz.php on line 27
+[03-Sep-2020 12:57:32 UTC] PHP Warning:  exif_read_data(phpwJaTbb): File not supported in /home/yngvbtgj/public_html/edu/34462998/faculty/upload.php on line 23
+[03-Sep-2020 13:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tmarks.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tmarks.php on line 88
+[07-Sep-2020 05:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php on line 14
+[07-Sep-2020 05:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php on line 14
+[07-Sep-2020 05:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php on line 14
+[07-Sep-2020 05:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php on line 14
+[07-Sep-2020 05:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php on line 14
+[07-Sep-2020 06:01:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tattendance.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tattendance.php on line 83
+[07-Sep-2020 06:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php on line 14
+[07-Sep-2020 06:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/34462998/faculty/tprofile.php on line 14
+[16-Sep-2020 12:35:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/yngvbtgj/public_html/edu/49753428/faculty/tquiz.php:6) in /home/yngvbtgj/public_html/edu/49753428/faculty/tquiz.php on line 77
+[19-Sep-2020 06:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/yngvbtgj/public_html/edu/49753428/faculty/tmarks.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/yngvbtgj/public_html/edu/49753428/faculty/tmarks.php on line 92
+[19-Sep-2020 08:08:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 08:08:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 08:10:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 08:11:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 08:12:35 UTC] PHP Warning:  exif_read_data(phpa9rEqb): File not supported in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 23
+[19-Sep-2020 08:12:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 08:15:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 08:15:32 UTC] PHP Warning:  exif_read_data(phppJeU16): File not supported in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 23
+[19-Sep-2020 09:49:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 09:53:19 UTC] PHP Warning:  exif_read_data(phpBSH93B): File not supported in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 23
+[19-Sep-2020 09:54:07 UTC] PHP Warning:  exif_read_data(phpezmtAS): File not supported in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 23
+[19-Sep-2020 12:36:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 12:37:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45056 bytes) in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 19
+[19-Sep-2020 20:26:19 UTC] PHP Warning:  chmod(): No such file or directory in /home/yngvbtgj/public_html/edu/49753428/faculty/advquiz.php on line 11
+[19-Sep-2020 20:26:19 UTC] PHP Warning:  unlink(uploads/1600503054842.jpg): No such file or directory in /home/yngvbtgj/public_html/edu/49753428/faculty/advquiz.php on line 12
+[19-Sep-2020 20:27:32 UTC] PHP Warning:  exif_read_data(phpbIqexu): File not supported in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 23
+[20-Sep-2020 04:46:58 UTC] PHP Warning:  exif_read_data(phpiKyp5o): File not supported in /home/yngvbtgj/public_html/edu/49753428/faculty/upload.php on line 23

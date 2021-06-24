@@ -1,0 +1,23 @@
+{
+    "name":"SGTB Students - Newra Education Platform",
+    "short_name":"SGTB Students",
+    "start_url":"https://newratechnologies.com/edu/49753428/students/studentmenu.php",
+    "display":"standalone",
+    "background_color":"#fff",
+    "description":"Newra Education Platform",
+    "icons":
+    [
+        {
+            "src":"https://newratechnologies.com/edu/49753428/images/mylogo-512.jpg",
+            "sizes":"512x512",
+            "type":"image/jpg"
+        },
+        {
+            "src":"https://newratechnologies.com/edu/49753428/images/mylogo-192.jpg",
+            "sizes":"192x192",
+            "type":"image/jpg"
+        }
+        
+        
+    ]
+}
